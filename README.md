@@ -9,7 +9,7 @@ are also employed in many application areas including Web usage mining, intrusio
 Creation of Buying Table:
 ### Procedure:
 1) Open Start -> Programs -> Accessories -> Notepad
-2) Type the following training data set with the help of Notepad for Buying Table,Banking Table and Employee Table.
+2) Type the following training data set with the help of Notepad for Buying Table.
 
 ```
 ------------
@@ -46,6 +46,8 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
+
+![Screenshot 2024-08-17 135528](https://github.com/user-attachments/assets/668b0399-ffac-439e-b662-0463e966abb1)
 
 
 ### Procedure for Association Rules:
